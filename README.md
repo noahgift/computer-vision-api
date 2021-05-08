@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/noahgift/computer-vision-api/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/computer-vision-api/actions/workflows/main.yml)
+
 # computer-vision-api
 This is a repo for creating Computer Vision examples
 
